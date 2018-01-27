@@ -10,6 +10,7 @@ script:
 deploy:
   provider: surge
   skip_cleanup: true
+  domain: shawnpetros.surge.sh
   project: ./build/
   on:
     branch: master
