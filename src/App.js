@@ -7,7 +7,7 @@ export default () => (
       <h1 className="App-title">Welcome To MyHelloWorld</h1>
     </header>
     <p className="App-intro">
-      My name is Shawn Petros. Welcome, and hello!
+      Sup Andrew!
     </p>
   </div>
 );
